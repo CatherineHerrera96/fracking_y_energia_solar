@@ -42,10 +42,14 @@ h1 {
     margin: auto;
     margin-top: 20px;}
 
-#imagn1 {
-    height: 100%;
-    width: 100%;
+
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+}
+
 
     
-}
+
 
